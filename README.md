@@ -1,2 +1,2 @@
-## app-finanzas
-# Una aplicación de control financiero 
+# app-finanzas
+## Una aplicación de control financiero 
